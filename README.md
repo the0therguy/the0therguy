@@ -10,7 +10,7 @@
 
 #### Language
 
-<code><img title="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  <code><img title="c" height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img title="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  <code><img title="c" height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>![](images/cpp_logo.png 20x1)
 
 #### Database
 
