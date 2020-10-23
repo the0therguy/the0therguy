@@ -48,5 +48,5 @@
 
 - 🔭 **Currently working on:** Python, Django, RESTFramework
 - ⚡ **Getting better at:** Python, Django, FastAPI
-- :purple_heart: **Personal Interest:** Programming, Movie, Football
+- :purple_heart: **Personal Interest:** Programming, Movie, Football ⚽ 
 - 📫 **How to reach me:** knock me at ifty545@gmail.com
