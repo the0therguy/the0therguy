@@ -1,9 +1,20 @@
 <h2 align="center">Hi there 👋, I am Mohammad BakiBillah Chowdhuryy Ifty</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ifty-chowdhury-47b3901b4/" target="_blank">
-  <img alt="ifty-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
+  <a href="https://www.facebook.com/ifty.chowdhury.3" target="_blank">
+  <img alt="ifty-facebook" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
   </a>
+  
+<p align="center">
+  <a href="https://instagram.com/the_0ther_guy0?utm_source=qr" target="_blank">
+  <img alt="ifty-Instagram" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-circle-512.png" width="30" height="30" >
+  </a>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ifty-chowdhury-47b3901b4/" target="_blank">
+  <img alt="ifty-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-circle-512.png" width="30" height="30" >
+  </a>
+
 
 ## I am a student
 --📚 Studying at East West University, Dhaka
