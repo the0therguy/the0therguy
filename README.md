@@ -1,5 +1,9 @@
 <h2 align="center">Hi there 👋, I am Mohammad BakiBillah Chowdhuryy Ifty</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ifty-chowdhury-47b3901b4/" target="_blank">
+  <img alt="ifty-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
+  </a>
 
 ## I am a student
 --📚 Studying at East West University, Dhaka
@@ -30,3 +34,4 @@
 - 🔭 **Currently working on:** Python, Django, RESTFramework
 - ⚡ **Getting better at:** Python, Django, FastAPI
 - :purple_heart: **Personal Interest:** Programming, Movie, Football
+- 📫 **How to reach me:** knock me at ifty545@gmail.com
