@@ -1,7 +1,7 @@
-###Hi there, I am Mohammad BakiBillah Chowdhuryy Ifty
+<h2 align="center">Hi there 👋, I am Mohammad BakiBillah Chowdhuryy Ifty</h2>
 
 
-##I am a student
+## I am a student
 --📚 Studying at East West University, Dhaka
 
 
