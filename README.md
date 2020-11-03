@@ -47,6 +47,6 @@
 :sparkles: **Facts you might be wondering about**
 
 - 🔭 **Currently working on:** Python, Django, RESTFramework
-- ⚡ **Getting better at:** Python, Django, FastAPI
+- ⚡ **Getting better at:** Python, Django, FastAPI, Machine Learning
 - :purple_heart: **Personal Interest:** Programming, Movie, Football ⚽ 
 - 📫 **How to reach me:** knock me at ifty545@gmail.com
