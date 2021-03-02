@@ -1,6 +1,7 @@
 <h2 align="center">Hi there 👋, I am Mohammad BakiBillah Chowdhuryy Ifty</h2>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/ifty-chowdhury-47b3901b4/" target="_blank">
   <img alt="ifty-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
   </a>
@@ -16,6 +17,7 @@
    <a href="https://twitter.com/theothe80717142" target="_blank">
     <img alt="Ifty-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
   </a>
+  
 </p>
 
 
