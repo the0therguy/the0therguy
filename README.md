@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I am Mohammad BakiBillah Chowdhuryy Ifty</h2>
+<h2 align="center" style="font-style: italic;">Hi there 👋, I am Mohammad BakiBillah Chowdhuryy Ifty</h2>
 
 <p align="center">
   
