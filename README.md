@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/ifty-chowdhury-47b3901b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/ifty-chowdhuryy-47b3901b4/" target="_blank">
   <img alt="ifty-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
   </a>
     
