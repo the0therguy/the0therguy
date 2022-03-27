@@ -14,9 +14,7 @@
   &nbsp;<img style="padding-right: 5px;" alt="ifty-Facebook" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-circle-512.png" width="30" height="30" >
   </a>
   
-  <a href="https://twitter.com/theothe80717142" target="_blank">
-    &nbsp;<img style="padding-right: 5px;" alt="Ifty-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
-  </a>
+
   
 </p>
 
