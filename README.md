@@ -31,6 +31,7 @@
 <code><img title="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  <code><img title="c" height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code> <code><img title="c++" height="20" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"/></code>
 <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<code><img title="JavaScript" height="20" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></code>
 
 #### Database
 
@@ -38,7 +39,7 @@
 
 #### Frameworks
 
-<code><img title="Django" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> <code><img title="Django REST" height="20" src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=022bf4c5b7efa27ab20395c0da4eff7b"></code> <code><img title ="FastAPI" height="20" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code> <code><img title="JavaScript" height="20" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></code> <code><img title="react" height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
+<code><img title="Django" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> <code><img title="Django REST" height="20" src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=022bf4c5b7efa27ab20395c0da4eff7b"></code> <code><img title ="FastAPI" height="20" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>  <code><img title="react" height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 
 #### Tools
 
@@ -51,6 +52,6 @@
 :sparkles: **Facts you might be wondering about**
 
 - 🔭 **Currently working on:** Python, Django, RESTFramework
-- ⚡ **Getting better at:** Python, Django,DjangoREST, Pyramid, FastAPI, Machine Learning
+- ⚡ **Getting better at:** Python, Django,DjangoREST, Pyramid, Machine Learning, JavaScript, React
 - :purple_heart: **Personal Interest:** Programming, Movie, Football ⚽ 
 - 📫 **How to reach me:** knock me at ifty545@gmail.com
